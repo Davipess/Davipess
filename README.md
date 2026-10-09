@@ -20,5 +20,5 @@ I am a 2nd-year Computer Science undergraduate at NOVA School of Science and Tec
 ---
 
 ## 📬 Let's Connect
-* **Email:** [dagfls74@gmail.com](mailto:dagfls74@gmail.com)
+* **Email:** [dagfls74@gmail.com](mailto:david.figueiredo4707@gmail.com)
 * **GitHub:** [github.com/Davipess](https://github.com/Davipess)
