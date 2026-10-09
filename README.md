@@ -1,4 +1,4 @@
-# Hi there, I'm David 👋
+# Hi there, I'm David Figueiredo 👋
 ### BSc Computer Science Student @ FCT NOVA | Passionate about Java & Software Systems
 
 I am a 2nd-year Computer Science undergraduate at NOVA School of Science and Technology (FCT NOVA). My academic focus is centered on **Core Java, Object-Oriented Design, and Software Fundamentals**, while also exploring how modern AI tooling accelerates full-stack application development.
